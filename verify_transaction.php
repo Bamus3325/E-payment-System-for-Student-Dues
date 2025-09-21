@@ -21,7 +21,7 @@ if ($ref == ""){
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => "GET",
     CURLOPT_HTTPHEADER => array(
-      "Authorization: Bearer sk_test_5eade4593e521df8f29649cdec437d198dbaeca4", // sk_live_2c47e2aa966ed8a55133ba5fd39c06fa7b704641
+      "Authorization: Bearer sk_test_5eade4593e521df8f29649cdec437d198dbaeca4", 
       "Cache-Control: no-cache",
     ),
   ));
@@ -77,3 +77,4 @@ if ($ref == ""){
     exit;
   }
 ?>
+
