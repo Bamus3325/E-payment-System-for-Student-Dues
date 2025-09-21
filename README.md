@@ -32,5 +32,3 @@ The E-Payment System for Student Dues is an online platform designed to help stu
 - Apache (XAMPP/WAMP)  
  
 
-## 👤 Author
-Developed by [Your Name].
